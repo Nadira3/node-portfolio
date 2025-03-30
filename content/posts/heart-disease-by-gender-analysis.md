@@ -1,9 +1,9 @@
 ---
 title: Heart disease by gender analysis
-date: 2025-03-30 19:09:44
+date: 2025-03-30 19:10:27
 category: Tech
 slug: heart-disease-by-gender-analysis
-image: https://images.unsplash.com/photo-1623015160728-e8241106e53c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3MzA2Nzd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDMzNTgxODR8&ixlib=rb-4.0.3&q=80&w=1080
+image: https://images.unsplash.com/photo-1583912267410-423b923daf61?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3MzA2Nzd8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDMzNTgyMjd8&ixlib=rb-4.0.3&q=80&w=1080
 ---
 
 # Heart Disease and Gender Analysis
